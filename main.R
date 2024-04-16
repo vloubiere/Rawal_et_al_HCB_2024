@@ -1,0 +1,9 @@
+if(F)
+{
+  file.edit("Rawal_et_al_HCB_2024/GO_enrichment.R")
+  file.edit("Rawal_et_al_HCB_2024/GO_boxplot_FC.R")
+  file.edit("Rawal_et_al_HCB_2024/GO_barplot_N_genes.R")
+  file.edit("Rawal_et_al_HCB_2024/Hilbert_curves_H3K27me3_H2AK118Ub.R")
+  file.edit("Rawal_et_al_HCB_2024/enrichment_ratios_H3K27me3_H2AK118Ub.R")
+  file.edit("Rawal_et_al_HCB_2024/genes_table_GO_terms.R")
+}
