@@ -14,6 +14,6 @@ Instructions for use:
 
 The "main.R" file lists all the scripts that are needed to generate the figures of the article. Script names should be self-explanatory, with additional comments linking them to the corresponding figure panel when relevant.
 
-All raw and processed NGS data were retrieved from GEO (GSE222193) and eventually pre-processed using the scripts available at <https://github.com/vloubiere/Parreno_Loubiere_2023.git>, were all further details can be found.
+All raw and processed NGS data were retrieved from GEO (GSE222193) and eventually pre-processed using the scripts available at <https://github.com/vloubiere/Parreno_Loubiere_2023.git>. Further details regarding the pre-processing of the data can be found <https://doi.org/10.1038/s41586-024-07328-w>.
 
 For any reasonable further request, please contact [chiolo\@ucsc.edu](mailto:chiolo@ucsc.edu){.email}.
