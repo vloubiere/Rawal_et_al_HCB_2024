@@ -1,4 +1,3 @@
-setwd("/groups/stark/vloubiere/projects/epigenetic_cancer/")
 
 # Import transcriptome
 dat <- readRDS("Rdata/final_gene_features_table.rds")

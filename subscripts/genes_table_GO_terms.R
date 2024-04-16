@@ -1,4 +1,3 @@
-setwd("/groups/stark/vloubiere/projects/epigenetic_cancer/")
 require(fgsea)
 
 # Retrieve GO terms of interest

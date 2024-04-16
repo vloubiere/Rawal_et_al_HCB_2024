@@ -1,4 +1,3 @@
-setwd("/groups/stark/vloubiere/projects/epigenetic_cancer/")
 library(HilbertCurve)
 library(circlize)
 set.seed(12345)

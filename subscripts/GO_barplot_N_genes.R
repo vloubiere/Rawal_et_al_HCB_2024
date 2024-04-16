@@ -1,4 +1,3 @@
-setwd("/groups/stark/vloubiere/projects/epigenetic_cancer/")
 require(vlfunctions)
 
 dat <- fread("db/DNA_repair/table_genes.txt")
