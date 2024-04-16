@@ -4,7 +4,9 @@ Authors: Chetan C. Rawal*, Vincent Loubiere*, Nadedja L. Butova, Julietter Garci
 
 System requirements:
 
-All the custom scripts generated for this study were written in R (version 4.2.0) using the R studio IDE (<https://www.R-project.org/>). All custom functions were wrapped into a R package that was made publicly available at <https://github.com/vloubiere/vlfunction/tree/nature_v2_revised>. No special hardware should be required. Installation guide:
+All the custom scripts generated for this study were written in R (version 4.2.0) using the R studio IDE (<https://www.R-project.org/>). All custom functions were wrapped into a R package that was made publicly available at <https://github.com/vloubiere/vlfunction/tree/nature_v2_revised>. No special hardware should be required.
+
+Installation guide:
 
 R and RStudio can be downloaded at <https://posit.co/download/rstudio-desktop/>. Installation time is approximately 20min. The R package containing custome function can be installed using the following command: devtools::install_github("<https://github.com/vloubiere/vlfunction/tree/nature_v2_revised>"). Installation time is approximately 20min.
 
