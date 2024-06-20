@@ -1,6 +1,6 @@
 This repository contains all custom R scripts supporting the conclusion of the study entitled "Sustained activation of the Polycomb PRC1 complex induces DNA repair defects and genomic instability in epigenetic tumors".
 
-Authors: Chetan C. Rawal*, Vincent Loubiere*, Nadedja L. Butova, Julietter Garcia, Victoria Parreno, Anne-Marie Martinez# & Giacomo Cavalli#, and Irene Chiolo#. (\* Contributed equally; \# Corresponding authors)
+Authors: Chetan C. Rawal*, Vincent Loubiere*, Nadedja L. Butova, Julietter Garcia, Victoria Parreno, Chiara Merigliano, Anne-Marie Martinez# & Giacomo Cavalli#, and Irene Chiolo#. (\* Contributed equally; \# Corresponding authors)
 
 System requirements:
 
